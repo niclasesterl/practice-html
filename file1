@@ -1,0 +1,11 @@
+<style>
+  .headers{
+    font-size: 32px;
+    font-family: Sans-Serif;
+    font-color: blue;
+  }
+</style>
+
+
+
+<h2 class = "headers">Practise html</title>
